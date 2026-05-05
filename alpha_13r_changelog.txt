@@ -1,1 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus 13r 5G/Ace 5
+Device maintainer: Sasuke
 
+====================
+     05-05-2026
+====================
+
+Initial AlphaDroid 4.4
