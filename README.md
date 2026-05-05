@@ -1,1 +1,1 @@
-# alpha_ota
+# ota
