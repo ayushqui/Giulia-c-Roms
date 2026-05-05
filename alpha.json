@@ -1,1 +1,29 @@
-
+{
+    "response": [
+        {
+            "maintainer": "Sasuke",
+            "oem": "",
+            "device": "giuliac",
+            "filename": "AlphaDroid-16-20260505-gapps-giuliac-v4.4.zip",
+            "download": "https://sourceforge.net/projects/alphadroid-project/files/giuliac/AlphaDroid-16-20260505-gapps-giuliac-v4.4.zip/download",
+            "timestamp": 1777976478,
+            "md5": "ab7cbce30314bb36f5cb02af29985a6b",
+            "sha256": "eacd8c193322160fcfb01e9d735b1c453045bcd1f58f9628869b2dd07231de0d",
+            "size": 3967163848,
+            "version": "4.4",
+            "buildtype": "Unofficial",
+            "buildvariant": "gapps",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
